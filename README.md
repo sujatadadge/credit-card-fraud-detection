@@ -7,7 +7,7 @@ This project uses Python and Machine Learning to detect fraudulent credit card t
 - Pandas
 - NumPy
 - Matplotlib / Seaborn
-- Scikit-learn
+
 
 ## 📊 Steps
 1. Data cleaning and EDA
